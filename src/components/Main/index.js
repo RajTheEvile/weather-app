@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import CityChosenContext from "../../Context/CityChosenContext";
+//eslint-disable-next-line
 import { ThreeDots } from "react-loader-spinner";
 import { 
   Container, 
